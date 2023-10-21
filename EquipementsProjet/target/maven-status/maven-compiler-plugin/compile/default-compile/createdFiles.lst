@@ -1,0 +1,7 @@
+com\esprit\microserviceApp\entity\Etat.class
+com\esprit\microserviceApp\service\EquipementService.class
+com\esprit\microserviceApp\entity\Disponibilite.class
+com\esprit\microserviceApp\Controller\EquipementController.class
+com\esprit\microserviceApp\entity\Equipement.class
+com\esprit\microserviceApp\MicroserviceAppApplication.class
+com\esprit\microserviceApp\Repository\IEquipementRepository.class

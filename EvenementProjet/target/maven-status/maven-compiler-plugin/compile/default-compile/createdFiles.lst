@@ -1,0 +1,6 @@
+tn\esprit\evenement\services\EvenementServiceImpl.class
+tn\esprit\evenement\EvenementApplication.class
+tn\esprit\evenement\controllers\EvenementController.class
+tn\esprit\evenement\services\EvenementService.class
+tn\esprit\evenement\repositories\EvenementRepository.class
+tn\esprit\evenement\entities\Evenement.class

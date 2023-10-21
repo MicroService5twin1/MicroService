@@ -1,0 +1,8 @@
+
+k	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðàá€øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ÄÒ÷ûÿÿÿÿ
+[
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(„Åž‹úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í‡Ëñ
+V
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(¶£õÏ

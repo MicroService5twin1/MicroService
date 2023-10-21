@@ -1,0 +1,14 @@
+
+v
+java:S22932"YReplace the type specification in this constructor call with the diamond operator ("<>").(’îï8­ùûÈ´1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¾¶îıÿÿÿÿ8³ùûÈ´1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(™Õ‘»ùÿÿÿÿ8ôùûÈ´1
+b
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(…†ÎŞûÿÿÿÿ8ìŠÚË´1
+b
+java:S4684 "@Replace this persistent entity with a simple POJO or DTO object.(Á¹Ùÿÿÿÿÿ8¢‹ÚË´1
+i
+java:S1128"LRemove this unused import 'org.springframework.data.repository.query.Param'.(©”šô8Ò‹ÚË´1
+O
+java:S1128
+"-Remove this unused import 'javax.ws.rs.Path'.(Š§¢éùÿÿÿÿ8Ó‹ÚË´1

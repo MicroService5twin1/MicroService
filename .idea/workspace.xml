@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edfa57df-a355-47ca-87e2-515a20f50516" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/AbonnementProjet" beforeDir="false" afterPath="$PROJECT_DIR$/AbonnementProjet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbonnementProjet/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AbonnementProjet" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WwrGNMDwGCtko5CdUObNB2wgwN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/5twin/Workspace MSA/MicroService-main/EquipementsProjet",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edfa57df-a355-47ca-87e2-515a20f50516" name="Changes" comment="" />
+      <created>1697654391490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697654391490</updated>
+      <workItem from="1697654392808" duration="55000" />
+      <workItem from="1697654506811" duration="6817000" />
+      <workItem from="1697663055472" duration="3173000" />
+      <workItem from="1697737283432" duration="1322000" />
+      <workItem from="1697738694011" duration="365000" />
+      <workItem from="1697739130691" duration="21000" />
+      <workItem from="1697740023607" duration="226000" />
+      <workItem from="1697740402074" duration="511000" />
+      <workItem from="1697742239415" duration="448000" />
+      <workItem from="1697742896904" duration="1685000" />
+      <workItem from="1697744927556" duration="618000" />
+      <workItem from="1697747292220" duration="5083000" />
+      <workItem from="1697841817017" duration="27000" />
+      <workItem from="1697842011116" duration="4766000" />
+      <workItem from="1697847058876" duration="5301000" />
+      <workItem from="1697892819424" duration="18136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
