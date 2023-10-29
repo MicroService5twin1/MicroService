@@ -5,44 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edfa57df-a355-47ca-87e2-515a20f50516" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API_Gateway_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/API_Gateway_Server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/API_Gateway_Server-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/API_Gateway_Server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/API_Gateway_Server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/2023-10-18T20-11-22_561-jvmRun1.dump" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/TEST-tn.esprit.api_gateway_server.ApiGatewayServerApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/TEST-tn.esprit.api_gateway_server.ApiGatewayServerApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/tn.esprit.api_gateway_server.ApiGatewayServerApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/tn.esprit.api_gateway_server.ApiGatewayServerApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoachProjet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoachProjet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoachProjet/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoachProjet/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoachProjet/target/classes/tn/esprit/CoachProjet/coach/CoachService.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/classes/tn/esprit/CoachProjet/coach/CoachService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/src/main/java/com/esprit/microserviceApp/Controller/EquipementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/src/main/java/com/esprit/microserviceApp/Controller/EquipementController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/Controller/EquipementController.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/Controller/EquipementController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/MicroserviceAppApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/MicroserviceAppApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/Repository/IEquipementRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/Repository/IEquipementRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Disponibilite.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Disponibilite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Equipement.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Equipement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Etat.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Etat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/service/EquipementService.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/service/EquipementService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenementProjet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EvenementProjet/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EvenementProjet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EvenementProjet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReservationProjet/src/main/java/com/esprit/microservices/reservationproject/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReservationProjet/src/main/java/com/esprit/microservices/reservationproject/entities/Reservation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +79,7 @@
       <workItem from="1698427933041" duration="5896000" />
       <workItem from="1698438281382" duration="15000" />
       <workItem from="1698582133939" duration="2716000" />
-      <workItem from="1698599317057" duration="1855000" />
+      <workItem from="1698599317057" duration="2871000" />
     </task>
     <servers />
   </component>
