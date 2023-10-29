@@ -15,6 +15,7 @@ import java.util.Objects;
 @RestController
 @RequiredArgsConstructor
 @RequestMapping("Equipement")
+@CrossOrigin("http://localhost:4200")
 public class EquipementController {
     private final EquipementService equipementService;
 

@@ -1,9 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="edfa57df-a355-47ca-87e2-515a20f50516" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/AbonnementProjet" beforeDir="false" afterPath="$PROJECT_DIR$/AbonnementProjet" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AbonnementProjet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/API_Gateway_Server-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/API_Gateway_Server-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/API_Gateway_Server-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/API_Gateway_Server-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/2023-10-18T20-11-22_561-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/TEST-tn.esprit.api_gateway_server.ApiGatewayServerApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/TEST-tn.esprit.api_gateway_server.ApiGatewayServerApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/tn.esprit.api_gateway_server.ApiGatewayServerApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/target/surefire-reports/tn.esprit.api_gateway_server.ApiGatewayServerApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoachProjet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoachProjet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoachProjet/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoachProjet/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoachProjet/target/classes/tn/esprit/CoachProjet/coach/CoachService.class" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/classes/tn/esprit/CoachProjet/coach/CoachService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/src/main/java/com/esprit/microserviceApp/Controller/EquipementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/src/main/java/com/esprit/microserviceApp/Controller/EquipementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/Controller/EquipementController.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/Controller/EquipementController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/MicroserviceAppApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/MicroserviceAppApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/Repository/IEquipementRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/Repository/IEquipementRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Disponibilite.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Disponibilite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Equipement.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Equipement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Etat.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/entity/Etat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/service/EquipementService.class" beforeDir="false" afterPath="$PROJECT_DIR$/EquipementsProjet/target/classes/com/esprit/microserviceApp/service/EquipementService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenementProjet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EvenementProjet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenementProjet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EvenementProjet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReservationProjet/src/main/java/com/esprit/microservices/reservationproject/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/ReservationProjet/src/main/java/com/esprit/microservices/reservationproject/entities/Reservation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,26 +50,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/AbonnementProjet" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2WwrGNMDwGCtko5CdUObNB2wgwN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/5twin/Workspace MSA/MicroService-main/EquipementsProjet",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;microservices&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nouioui asma/Desktop/microservices_backend/MicroService/AbonnementProjet&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\nouioui asma\\Desktop\\microservices_backend\\MicroService\\AbonnementProjet\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +105,17 @@
       <workItem from="1697842011116" duration="4766000" />
       <workItem from="1697847058876" duration="5301000" />
       <workItem from="1697892819424" duration="18136000" />
+      <workItem from="1698100667452" duration="676000" />
+      <workItem from="1698101380968" duration="21000" />
+      <workItem from="1698222008072" duration="1557000" />
+      <workItem from="1698345054584" duration="100000" />
+      <workItem from="1698346219065" duration="9856000" />
+      <workItem from="1698364517670" duration="1142000" />
+      <workItem from="1698397328151" duration="1225000" />
+      <workItem from="1698427933041" duration="5896000" />
+      <workItem from="1698438281382" duration="15000" />
+      <workItem from="1698582133939" duration="2716000" />
+      <workItem from="1698599317057" duration="1855000" />
     </task>
     <servers />
   </component>

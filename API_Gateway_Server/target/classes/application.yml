@@ -17,7 +17,7 @@ spring:
       globalcors:
         corsConfigurations:
           '[/**]':
-            allowedOrigins: "http://localhost:3000"
+            allowedOrigins: "http://localhost:4200"
             allowedMethods: "*"
             allowedHeaders: "*"
 
@@ -42,3 +42,8 @@ spring:
           uri: http://localhost:8030/
           predicates:
             - Path=/Reservations/**
+        - id: evenementsModule
+          uri: http://localhost:8099/
+          predicates:
+            - Path=/evenements/**
+

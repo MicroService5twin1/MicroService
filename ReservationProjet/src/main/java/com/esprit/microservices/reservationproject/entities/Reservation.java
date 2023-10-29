@@ -30,11 +30,11 @@ public class Reservation implements Serializable {
     private  String ref;
     @NonNull
     @Temporal(TemporalType.DATE)
-    @JsonFormat(pattern = "yyyy-MM-dd")
+    @JsonFormat(pattern = "dd/MM/yyyy")
     private Date DateDebutReser ;
     @NonNull
     @Temporal(TemporalType.DATE)
-    @JsonFormat(pattern = "yyyy-MM-dd")
+    @JsonFormat(pattern = "dd/MM/yyyy")
     private  Date DateFinReser;
     @Enumerated(EnumType.STRING)
     @NonNull
