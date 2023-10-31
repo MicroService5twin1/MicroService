@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edfa57df-a355-47ca-87e2-515a20f50516" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/API_Gateway_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/API_Gateway_Server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenementProjet/src/main/java/tn/esprit/evenement/controllers/EvenementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/EvenementProjet/src/main/java/tn/esprit/evenement/controllers/EvenementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +36,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;microservices&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Features/crudfront&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/nouioui asma/Desktop/microservices_backend/MicroService/AbonnementProjet&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -80,6 +83,8 @@
       <workItem from="1698438281382" duration="15000" />
       <workItem from="1698582133939" duration="2716000" />
       <workItem from="1698599317057" duration="2871000" />
+      <workItem from="1698755350528" duration="626000" />
+      <workItem from="1698778798339" duration="2766000" />
     </task>
     <servers />
   </component>

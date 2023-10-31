@@ -41,15 +41,12 @@ public class EvenementController {
         return new ResponseEntity<>(createdEvenement, HttpStatus.CREATED);
     }
 
-    @PutMapping("/update")
-    public ResponseEntity<Evenement> updateEvenement(@RequestBody Evenement evenement) {
-        Evenement updatedEvenement = evenementService.updateEvenement(evenement);
-        if (updatedEvenement == null) {
-            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
-        }
-        return new ResponseEntity<>(updatedEvenement, HttpStatus.OK);
-    }
 
+    @PutMapping("/update/{id}")
+    public ResponseEntity<Evenement> updateEvenement(@PathVariable("id") Long id, @RequestBody Evenement evenement) {
+        evenementService.updateEvenement(id, evenement);
+        return new ResponseEntity<>(HttpStatus.OK);
+    }
     @DeleteMapping("/delete/{id}")
     public ResponseEntity<Void> deleteEvenement(@PathVariable Long id) {
         evenementService.deleteEvenement(id);

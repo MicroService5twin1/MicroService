@@ -34,8 +34,15 @@ public class EvenementServiceImpl implements EvenementService {
     }
 
     @Override
-    public Evenement updateEvenement(Evenement evenement) {
-        return evenementRepository.save(evenement);
+    public void updateEvenement(Long id,Evenement evenement) {
+
+        Evenement ev=evenementRepository.findById(id).orElse(null);
+        if (ev != null) {
+            ev.setTitle(evenement.getTitle());
+            ev.setDescription(evenement.getDescription());
+            ev.setEventDate(evenement.getEventDate());
+            evenementRepository.save(ev);
+        }
     }
 
     @Override

@@ -7,29 +7,11 @@
     <list default="true" id="c1628153-630e-45ab-a796-62965f5729cd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API_Gateway_Server/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Gateway_Server/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../API_Gateway_Server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Gateway_Server/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../API_Gateway_Server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../API_Gateway_Server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoachProjet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CoachProjet/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoachProjet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CoachProjet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoachProjet/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CoachProjet/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../CoachProjet/target/CoachProjet-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoachProjet/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CoachProjet/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoachProjet/target/classes/tn/esprit/CoachProjet/coach/CoachService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CoachProjet/target/classes/tn/esprit/CoachProjet/coach/CoachService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../CoachProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/esprit/microserviceApp/Controller/EquipementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/esprit/microserviceApp/Controller/EquipementController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/Controller/EquipementController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/Controller/EquipementController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/MicroserviceAppApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/MicroserviceAppApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/Repository/IEquipementRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/Repository/IEquipementRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/entity/Disponibilite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/entity/Disponibilite.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/entity/Equipement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/entity/Equipement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/entity/Etat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/entity/Etat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/service/EquipementService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/esprit/microserviceApp/service/EquipementService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/controllers/EvenementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/controllers/EvenementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +52,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "microservices",
+    "git-widget-placeholder": "Features/crudfront",
     "last_opened_file_path": "C:/Users/nouioui asma/Desktop/microservices_backend/MicroService/EquipementsProjet",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -105,6 +87,7 @@
       <workItem from="1697922847167" duration="1006000" />
       <workItem from="1698359961574" duration="202000" />
       <workItem from="1698360173405" duration="319000" />
+      <workItem from="1698787678914" duration="129000" />
     </task>
     <servers />
   </component>

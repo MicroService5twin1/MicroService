@@ -8,6 +8,6 @@ public interface EvenementService {
     List<Evenement> getAllEvenements();
     Evenement getEvenementById(Long id);
     Evenement createEvenement(Evenement evenement);
-    Evenement updateEvenement(Evenement evenement);
+        void updateEvenement(Long id,Evenement evenement);
     void deleteEvenement(Long id);
 }

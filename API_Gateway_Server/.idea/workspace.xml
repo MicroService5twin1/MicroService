@@ -5,8 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38e24fac-9344-4ae9-9cd2-20d277b600be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EquipementsProjet/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EquipementsProjet/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EquipementsProjet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EquipementsProjet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/controllers/EvenementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/controllers/EvenementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/src/main/java/tn/esprit/evenement/services/EvenementServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/Evenement-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/Evenement-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/Evenement-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/Evenement-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/EvenementApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/EvenementApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/controllers/EvenementController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/controllers/EvenementController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/entities/Evenement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/entities/Evenement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/repositories/EvenementRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/repositories/EvenementRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/services/EvenementService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/services/EvenementService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/services/EvenementServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/classes/tn/esprit/evenement/services/EvenementServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/surefire-reports/2023-10-21T17-30-12_050-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/surefire-reports/TEST-tn.esprit.evenement.EvenementApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/surefire-reports/TEST-tn.esprit.evenement.EvenementApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/surefire-reports/tn.esprit.evenement.EvenementApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/surefire-reports/tn.esprit.evenement.EvenementApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EvenementProjet/target/test-classes/tn/esprit/evenement/EvenementApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../EvenementProjet/target/test-classes/tn/esprit/evenement/EvenementApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +68,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;microservices&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Features/crudfront&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/nouioui asma/Desktop/microservices_backend/MicroService/API_Gateway_Server&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -95,6 +119,8 @@
       <workItem from="1698582117569" duration="2130000" />
       <workItem from="1698594473484" duration="631000" />
       <workItem from="1698598681909" duration="1826000" />
+      <workItem from="1698755340588" duration="658000" />
+      <workItem from="1698778814173" duration="2514000" />
     </task>
     <servers />
   </component>
